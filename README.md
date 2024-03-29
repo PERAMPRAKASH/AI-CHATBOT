@@ -12,7 +12,7 @@ Please note that your chatbot is currently unable to retrieve responses to your 
 The above code provided follows a simple flow. First, it displays the user’s message in the chatbox and uses the OpenAI API to generate an appropriate response to the message. While waiting for the API response, a “Thinking…” message is shown. Once the response is received, it replaces the “Thinking…” message in the chatbox.
 
 
-**Conclusion**
+**CONCLUSION:**
 In conclusion, creating a working chatbot allows you to apply your skills to a real-world application. I hope that by following the steps in this post, you’ve successfully created your own chatbot using HTML, CSS, and JavaScript.
 
 To further improve your web development skills, you can try recreating the ChatGPT Clone Project using HTML, CSS, and JavaScript. This project helps you expand your knowledge by creating a ChatGPT clone with additional features like dark/light themes and saved chats using local storage.
