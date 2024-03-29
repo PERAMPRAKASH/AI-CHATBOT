@@ -10,6 +10,8 @@ Please note that your chatbot is currently unable to retrieve responses to your 
 ” Remember that when you sign up for OpenAI, you’ll get a free $5 credit for your API usage. If your account is older than 3 months or the credit runs out, you’ll need a paid account or create a new one with a new number to keep using the API. Your API usage and expiration date can be found on the account’s usage page.”
 
 The above code provided follows a simple flow. First, it displays the user’s message in the chatbox and uses the OpenAI API to generate an appropriate response to the message. While waiting for the API response, a “Thinking…” message is shown. Once the response is received, it replaces the “Thinking…” message in the chatbox.
+
+
 **Conclusion**
 In conclusion, creating a working chatbot allows you to apply your skills to a real-world application. I hope that by following the steps in this post, you’ve successfully created your own chatbot using HTML, CSS, and JavaScript.
 
